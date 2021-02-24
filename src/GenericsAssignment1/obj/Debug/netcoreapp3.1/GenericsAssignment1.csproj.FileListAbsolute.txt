@@ -1,0 +1,13 @@
+C:\Users\Shlok\Desktop\CSharp\src\GenericsAssignment1\bin\Debug\netcoreapp3.1\GenericsAssignment1.exe
+C:\Users\Shlok\Desktop\CSharp\src\GenericsAssignment1\bin\Debug\netcoreapp3.1\GenericsAssignment1.deps.json
+C:\Users\Shlok\Desktop\CSharp\src\GenericsAssignment1\bin\Debug\netcoreapp3.1\GenericsAssignment1.runtimeconfig.json
+C:\Users\Shlok\Desktop\CSharp\src\GenericsAssignment1\bin\Debug\netcoreapp3.1\GenericsAssignment1.runtimeconfig.dev.json
+C:\Users\Shlok\Desktop\CSharp\src\GenericsAssignment1\bin\Debug\netcoreapp3.1\GenericsAssignment1.dll
+C:\Users\Shlok\Desktop\CSharp\src\GenericsAssignment1\bin\Debug\netcoreapp3.1\GenericsAssignment1.pdb
+C:\Users\Shlok\Desktop\CSharp\src\GenericsAssignment1\obj\Debug\netcoreapp3.1\GenericsAssignment1.csprojAssemblyReference.cache
+C:\Users\Shlok\Desktop\CSharp\src\GenericsAssignment1\obj\Debug\netcoreapp3.1\GenericsAssignment1.AssemblyInfoInputs.cache
+C:\Users\Shlok\Desktop\CSharp\src\GenericsAssignment1\obj\Debug\netcoreapp3.1\GenericsAssignment1.AssemblyInfo.cs
+C:\Users\Shlok\Desktop\CSharp\src\GenericsAssignment1\obj\Debug\netcoreapp3.1\GenericsAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Shlok\Desktop\CSharp\src\GenericsAssignment1\obj\Debug\netcoreapp3.1\GenericsAssignment1.dll
+C:\Users\Shlok\Desktop\CSharp\src\GenericsAssignment1\obj\Debug\netcoreapp3.1\GenericsAssignment1.pdb
+C:\Users\Shlok\Desktop\CSharp\src\GenericsAssignment1\obj\Debug\netcoreapp3.1\GenericsAssignment1.genruntimeconfig.cache
