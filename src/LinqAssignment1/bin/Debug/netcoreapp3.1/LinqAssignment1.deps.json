@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LinqAssignment1/1.0.0": {
+        "runtime": {
+          "LinqAssignment1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinqAssignment1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
