@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 
 namespace Assignment1
 {
@@ -6,13 +7,14 @@ namespace Assignment1
     {
         static void Main(string[] args)
         {
-            string[] colorOptions = { "Red", "Espresso", "White", "Navy" };
-            foreach (var color in colorOptions)
-            {
-                color = color.ToLower();
-                Console.WriteLine(color);
-            }
-
+            System.Console.WriteLine("Please enter Id Name and Department Name in different lines");
+            int userIdInput = Int32.Parse(Console.ReadLine());
+            string userNameInput = Console.ReadLine();
+            string userDepartmentNameInput = Console.ReadLine();
+            var emp = new Employee(userIdInput, userNameInput, userDepartmentNameInput);
+            emp.MethodCalled += OnMethodCalled;
+            DisplayEmployeeDetails(emp);
+            System.Console.WriteLine($"The id is {emp.GetId()}");
 
         }
         static void DisplayEmployeeDetails(Employee emp)
