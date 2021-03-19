@@ -1,0 +1,36 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="Index">
+        <table>
+            <tr>
+                <td>Enter Your Guess:  </td>
+                <td><input type="text" id="guessNumber" name="GuessNumber" /></td>
+            </tr>
+            <tr>
+         
+                <td></td>
+                <td><input type="submit" value="Submit" /></td>
+            </tr>
+        </table>
+        <hr />
+        Guessed Number : @ViewBag.guess
+        <hr />
+        Bulls: @ViewBag.bulls
+        <hr />
+        Cows : @ViewBag.cows
+      
+
+    </form>
+</body>
+</html>
